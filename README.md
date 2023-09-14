@@ -67,6 +67,11 @@ I've worked as a **Data Engineer** performing tasks from crawling to data visual
 
 
 
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=001021&show_icons=true&theme=shadow_blue)
+
+
+
 <!--
 **001021/001021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
