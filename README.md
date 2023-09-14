@@ -1,12 +1,11 @@
 <a href="mailto%3Ajueun.dev%40gmail.com" target="_blank"><img src="https://img.shields.io/badge/jueun.dev%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-
 ### Hi there! 👋🏻
 I'm a passionate **Full-Stack Developer** 👩🏻‍💻 with experience across the entire development process, from front-end and back-end to cloud infrastructure setup and deployment.
 <br/>
 I've worked as a **Data Engineer** performing tasks from crawling to data visualization using AWS and Elastic Search. 📊
-
 <br/>
+
 
 ### 🛠️ Skills 
 
